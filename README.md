@@ -1,8 +1,10 @@
 # Site for the Mood
 
-Данный проект представляет собой одностраничный сайт, единственная функция которого показывать случайную фразу из списка при загрузке.
+This project is a simple webpage with single purpose: show a cheesy joke each time you load page. Nothing else.  
 
-Ознакомиться с сайтом можно тут: [ademkin.github.io](https://ademkin.github.io)
+This project is also hosted on [ademkin.github.io](https://ademkin.github.io).
+
+
 
 Anton Demkin, 2017
 
