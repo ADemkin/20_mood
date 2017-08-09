@@ -1,6 +1,10 @@
 # Site for the Mood
 
-[TODO. There will be project description]
+Данный проект представляет собой одностраничный сайт, единственная функция которого показывать случайную фразу из списка при загрузке.
+
+Ознакомиться с сайтом можно тут: [ademkin.github.io](https://ademkin.github.io)
+
+Anton Demkin, 2017
 
 # Project Goals
 
